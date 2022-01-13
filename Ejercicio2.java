@@ -31,6 +31,9 @@ public class Ejercicio2 {
 	      case 7:
 	        System.out.println("Sunday");
 	        break;
+		  case 8:
+	        System.out.println("HOLIDAY");
+	        break;
 	    }
 	}
 
