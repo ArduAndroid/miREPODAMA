@@ -6,13 +6,10 @@ public class Ejercicio2 {
 		// TODO Auto-generated method stub
 		
 		Scanner sc = new Scanner(System.in);
-		System.out.println("Introduzca un nº");
+		System.out.println("Introduzca un nï¿½");
 		int day = sc.nextInt();
 
 	    switch (day) {
-	      case 1:
-	        System.out.println("Monday");
-	        break;
 	      case 2:
 	        System.out.println("Tuesday");
 	        break;
@@ -33,6 +30,9 @@ public class Ejercicio2 {
 	        break;
 		  case 8:
 	        System.out.println("HOLIDAY");
+	        break;
+			case 9:
+	        System.out.println("ASDSD");
 	        break;
 	    }
 	}
