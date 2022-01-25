@@ -34,6 +34,9 @@ public class Ejercicio2 {
 			case 9:
 	        System.out.println("ASDSD");
 	        break;
+			case 10:
+			System.out.println("asdsdsdsadsad");
+	        break;
 	    }
 	}
 
