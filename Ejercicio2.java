@@ -32,7 +32,7 @@ public class Ejercicio2 {
 	        System.out.println("HOLIDAY");
 	        break;
 			case 9:
-	        System.out.println("ASDSD");
+	        System.out.println("ASDAAAASD");
 	        break;
 	    }
 	}
